@@ -125,12 +125,15 @@
 
 #services.jg-services .jg-services-title span {
   color: #8b5cf6;
-  background: linear-gradient(
-    90deg,
-    #9a4cff,
-    #7147ff,
-    #25b8ff
-  );
+  background:
+        linear-gradient(
+            90deg,
+            #5AA9FF 0%,
+            #514BFF 25%,
+            #4B00FF 50%,
+            #8A24FF 75%,
+            #C46CFF 100%
+        );
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
